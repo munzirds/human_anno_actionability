@@ -18,7 +18,7 @@
     "rationale": "The text indicates suicidal ideation with a specific plan and a sense of hopelessness, which constitutes a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -29,7 +29,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of depression, substance use, and immediate risk factors such as searching for methods to die and expressing fear of pain and failure in attempts. The individual has also disclosed their intent to self-harm to others, signaling a crisis situation requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -40,7 +40,7 @@
     "rationale": "The text expresses feelings of hopelessness, isolation, and a desire to stop everything, which are indicative of a crisis. The mention of wanting to end suffering and pain suggests a potential risk of self-harm or suicidal ideation, warranting immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -51,7 +51,7 @@
     "rationale": "The text includes explicit mention of suicidal ideation, a detailed plan, and a sense of hopelessness, indicating an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -62,7 +62,7 @@
     "rationale": "The text indicates suicidal ideation, feelings of emptiness, and a plan to avoid disclosing these thoughts to a therapist, which suggests a high risk and immediate need for crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -73,7 +73,7 @@
     "rationale": "The text expresses persistent thoughts of disappearing, feelings of hopelessness, and a lack of support, which indicate a potential crisis. The mention of not making it past their next birthday suggests a risk of self-harm or suicidal ideation, warranting immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -84,7 +84,7 @@
     "rationale": "The text indicates significant isolation, hopelessness, and a potential plan involving not returning from a camping trip, which could imply suicidal intent. This constitutes a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -95,7 +95,7 @@
     "rationale": "The text expresses feelings of hopelessness and a potential imminent risk ('Tomorrow is my last fucking day'), indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -106,7 +106,7 @@
     "rationale": "The text contains explicit language suggesting imminent self-harm ('Someone please talk to me before I do it') and expresses profound feelings of isolation and hopelessness, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -117,7 +117,7 @@
     "rationale": "The text indicates a recent suicide attempt, ongoing distress, and a current desire to not be alive, which signifies a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -128,7 +128,7 @@
     "rationale": "The text expresses suicidal ideation, feelings of hopelessness, and a desire to escape life, indicating a crisis level of urgency. The mention of wanting to 'take myself out' and fear of death suggests immediate risk and need for intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -139,7 +139,7 @@
     "rationale": "The text includes explicit references to suicidal ideation ('balcony... calling my name') and a potential plan ('see you all later', 'game out of it'), indicating a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -150,7 +150,7 @@
     "rationale": "The text indicates severe emotional distress, feelings of worthlessness, and mentions thoughts of ending life, which suggests a crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -161,7 +161,7 @@
     "rationale": "The text indicates severe emotional distress, hopelessness, cessation of eating, and potential suicidal ideation ('finally at peace with my decision'). These are clear signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -172,7 +172,7 @@
     "rationale": "The text includes expressions of self-hate, feelings of hopelessness, and a direct mention of self-harm as a potential solution, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -183,7 +183,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of hopelessness, and a lack of support systems. The individual has expressed intent to end their life and has had negative experiences with seeking help, which increases the urgency for immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -194,7 +194,7 @@
     "rationale": "The text describes a recent suicidal ideation and an attempt to climb over a bridge railing, indicating a crisis situation. Although the individual decided against the act, the severity of the thoughts and actions necessitate urgent support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -205,7 +205,7 @@
     "rationale": "The text explicitly mentions a plan to end their life within a specific timeframe, indicating an immediate risk of harm and requiring urgent crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -216,7 +216,7 @@
     "rationale": "The text indicates recent loss of a close friend to suicide, ongoing self-harm attempts, and persistent thoughts of death, which are clear signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -227,7 +227,7 @@
     "rationale": "The text expresses feelings of hopelessness, emotional distress, and mentions not wanting to be on the planet anymore, indicating a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -238,7 +238,7 @@
     "rationale": "The text expresses a fundamental questioning of the will to live, which is a potential indicator of a crisis requiring immediate attention to assess for suicidal ideation or intent.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -249,7 +249,7 @@
     "rationale": "The text expresses suicidal thoughts, fear of one's own mind, feelings of hopelessness about the future, and a lack of immediate support. These factors indicate a crisis level of urgency requiring immediate attention and intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -260,7 +260,7 @@
     "rationale": "The text indicates suicidal ideation with a specific reference to stepping off a train platform, which suggests a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -271,7 +271,7 @@
     "rationale": "The text expresses clear suicidal ideation, including a desire for an 'easy way' to end their life and mentions self-harm. While there is some protective factor (family and guitar), the level of distress and explicit mention of wanting to end their life indicates a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -282,7 +282,7 @@
     "rationale": "The text expresses deep emotional distress, feelings of hopelessness, self-blame, and mentions wanting to end things, which indicates a potential crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -293,7 +293,7 @@
     "rationale": "The text expresses intense hopelessness, self-deprecation, and suicidal ideation, including thoughts of self-harm and a lack of reasons to live. While there is a small mention of denial preventing self-harm, the overall tone and content indicate a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -304,7 +304,7 @@
     "rationale": "The text indicates a high level of distress, a history of suicidal ideation, hospitalization, and current thoughts of self-harm. The mention of saving medication and inability to continue living this way signifies an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -315,7 +315,7 @@
     "rationale": "The text indicates suicidal ideation, a recent attempt, and a lack of support from a significant other. These factors suggest an immediate risk to the individual's safety, requiring urgent crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -326,7 +326,7 @@
     "rationale": "The text indicates active suicidal ideation, a sense of hopelessness, and a detailed focus on ending their life, which constitutes a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -337,7 +337,7 @@
     "rationale": "The text indicates a history of abuse, current emotional distress, thoughts of self-harm, and substance use as a coping mechanism. While the individual mentions having some support, the severity of their distress and the mention of suicidal ideation elevate this to a crisis level.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -348,7 +348,7 @@
     "rationale": "The text expresses feelings of worthlessness, mentions self-harm intentions, and describes a dire personal situation, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -359,7 +359,7 @@
     "rationale": "The text indicates significant distress, self-harm behaviors, persistent self-hatred, and suicidal ideation, which are critical signs of a mental health crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -370,7 +370,7 @@
     "rationale": "The text expresses feelings of hopelessness, social isolation, and a direct mention of wanting to die, indicating a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -381,7 +381,7 @@
     "rationale": "The text expresses profound grief, suicidal ideation ('wish I was dead'), and significant emotional distress following the loss of a loved one. The individual also mentions feelings of guilt and self-loathing, which indicate a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -392,7 +392,7 @@
     "rationale": "The text indicates suicidal ideation with plans and a sense of finality, which constitutes a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -403,7 +403,7 @@
     "rationale": "The text expresses suicidal thoughts, intense emotional pain, self-hatred, and a sense of hopelessness, which are indicative of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -414,7 +414,7 @@
     "rationale": "The text indicates suicidal ideation, a history of a previous attempt, feelings of being trapped, and lack of support from relationships and environment. These factors suggest an immediate crisis requiring urgent intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -425,7 +425,7 @@
     "rationale": "The text describes a situation involving suicidal ideation, emotional distress, and a direct disclosure of intent to harm oneself. The individual, Alex, expressed feelings of hopelessness and a lack of meaning in life, which are critical risk factors for suicide. Immediate intervention and crisis support are necessary.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -436,7 +436,7 @@
     "rationale": "The text expresses persistent suicidal ideation, feelings of hopelessness, and a sense of being on the edge ('on a cliff'). While the individual mentions love for their family as a protective factor, the depth of despair and ongoing struggle despite treatment indicates a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -447,7 +447,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of unbearable pain, self-harm thoughts, and a desire for intervention (e.g., walking into a hospital). These factors suggest a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -458,7 +458,7 @@
     "rationale": "The text expresses severe hopelessness, social isolation, and thoughts about death and dying, indicating a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -469,7 +469,7 @@
     "rationale": "The text describes an imminent suicide threat ('gonna try to kill himself tomorrow'), a history of self-harm and previous suicide attempts, and a lack of immediate support options. This constitutes a crisis situation requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -480,7 +480,7 @@
     "rationale": "The text expresses a sense of hopelessness, emotional numbness, and a potential farewell, which are indicative of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -491,7 +491,7 @@
     "rationale": "The text expresses active self-harm ideation and a sense of hopelessness, indicating a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -502,7 +502,7 @@
     "rationale": "The text explicitly mentions suicidal thoughts, detailed planning, and a sense of emotional void, indicating an immediate risk of harm. The mention of flipping a coin suggests imminent decision-making, requiring urgent crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -513,7 +513,7 @@
     "rationale": "The text expresses feelings of hopelessness, mentions not seeing a point in living, and implies potential self-harm, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -524,7 +524,7 @@
     "rationale": "The individual expresses frequent thoughts of self-harm, increasing in intensity over the past year, alongside significant emotional distress, unresolved trauma, and feelings of hopelessness. These factors indicate a crisis level requiring immediate attention to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -535,7 +535,7 @@
     "rationale": "The individual expresses a history of suicidal thoughts, current emotional distress, and mentions wanting to jump off a bridge, even if not immediately. These factors indicate a high risk and require urgent attention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -546,7 +546,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of hopelessness, and a conflict between living and ending life, with the latter gaining ground. These are clear signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -557,7 +557,7 @@
     "rationale": "The individual expresses chronic suicidality, current suicidal feelings, and a sense of urgency for help. They also describe a lack of hope and a potential immediate risk to their safety, which indicates a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -568,7 +568,7 @@
     "rationale": "The text indicates persistent suicidal ideation, a sense of inevitability about self-harm, and worsening mental health symptoms such as nightmares and poor sleep. These factors suggest a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -579,7 +579,7 @@
     "rationale": "The text indicates suicidal ideation ('looking at a knife and thinking about ending it all') alongside severe distress due to lack of food and financial hardship. This combination of factors suggests an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -590,7 +590,7 @@
     "rationale": "The text describes intense suicidal thoughts, access to multiple means of self-harm (gun, knives, medication, alcohol), and feelings of shame preventing the individual from seeking support. These factors indicate a high risk and immediate need for crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -601,7 +601,7 @@
     "rationale": "The text expresses feelings of isolation and explicitly mentions self-harm, indicating a crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -612,7 +612,7 @@
     "rationale": "The text expresses a deep sense of hopelessness and questioning the purpose of existence, which indicates a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -623,7 +623,7 @@
     "rationale": "The text includes explicit mention of suicide as a 'reasonable option' and discusses self-harm in the context of a denied appeal, indicating a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -634,7 +634,7 @@
     "rationale": "The text indicates active self-harm, suicidal ideation, and significant distress, which are clear signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -645,7 +645,7 @@
     "rationale": "The text expresses suicidal ideation, feelings of worthlessness, and a lack of perceived support or care from others, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -656,7 +656,7 @@
     "rationale": "The text expresses suicidal ideation, feelings of emptiness, hopelessness, and self-harm considerations, indicating a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -667,7 +667,7 @@
     "rationale": "The text indicates significant emotional distress, feelings of hopelessness, and potential risk factors such as thoughts of giving up. The individual is overwhelmed by multiple stressors and expresses a lack of support, which suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -678,7 +678,7 @@
     "rationale": "The text expresses persistent suicidal ideation, feelings of hopelessness, and a lack of desire to live, with the only barrier to action being fear. This indicates a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -689,7 +689,7 @@
     "rationale": "The text indicates severe distress, hopelessness, social isolation, and a mention of setting a date, which strongly suggests suicidal ideation. Immediate crisis intervention is warranted.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -700,7 +700,7 @@
     "rationale": "The text indicates active suicidal thoughts, a history of self-harm, and escalating distress, which suggests a high risk of crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -711,7 +711,7 @@
     "rationale": "The text describes physical abuse by a parent, which indicates a crisis situation requiring immediate attention to ensure the safety and well-being of the individual.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -722,7 +722,7 @@
     "rationale": "The individual expresses a clear desire to die, a history of self-harm, and current self-harming behavior. They also explicitly mention seeking help and feeling unable to cope, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -733,7 +733,7 @@
     "rationale": "The text indicates severe symptoms of psychosis (hallucinations, paranoia), significant distress, and thoughts of leaving life, though self-harm is explicitly denied. The combination of these factors suggests a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -744,7 +744,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of self-harm, and a desire to resume self-harming with intent to not stop. These factors suggest a high risk and immediate need for crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -755,7 +755,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of depression, recent close attempts, and a sense of hopelessness. These factors suggest an immediate risk requiring crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -766,7 +766,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of self-harm attempts, feelings of hopelessness, and a direct plea for help regarding ending their life. These factors signify an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -777,7 +777,7 @@
     "rationale": "Failed after 3 attempts",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -788,7 +788,7 @@
     "rationale": "The text indicates a clear expression of suicidal ideation with a specific timeframe mentioned ('final 2 days on earth'), suggesting an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -799,7 +799,7 @@
     "rationale": "The text expresses hopelessness, mentions being in pain every day, and includes a direct reference to suicidal ideation ('Really thinking about just doing it'). These are clear indicators of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -810,7 +810,7 @@
     "rationale": "The text expresses persistent suicidal ideation, deep self-loathing, and hopelessness, indicating a crisis level of mental health distress requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -821,7 +821,7 @@
     "rationale": "The text is extremely brief and ambiguous, but it could indicate a need for monitoring due to potential underlying distress or intent.",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -832,7 +832,7 @@
     "rationale": "The text indicates severe emotional distress, expressions of hopelessness, and passive suicidal ideation ('part of me wants to destroy myself', 'I just have no reason to be here'). These are signs of a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -843,7 +843,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of prolonged distress, and a sense of hopelessness, which are critical risk factors requiring immediate crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -854,7 +854,7 @@
     "rationale": "The text expresses suicidal ideation and feelings of hopelessness, indicating a crisis level of urgency. The individual mentions not wanting to live and struggles with thoughts of self-harm, which requires immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -865,7 +865,7 @@
     "rationale": "The text mentions suicidal thoughts, a worsening mental state, and a direct expression of needing help, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -876,7 +876,7 @@
     "rationale": "The text indicates a sense of hopelessness, emotional numbness, and a statement of being unable to carry on, which suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -887,7 +887,7 @@
     "rationale": "The text indicates a clear expression of intent to 'call it quits,' which suggests suicidal ideation. The language reflects a sense of hopelessness and finality, warranting immediate crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -898,7 +898,7 @@
     "rationale": "The text indicates active suicidal ideation with a specific plan (taking 20 sleeping pills) and significant emotional distress. The individual expresses feelings of hopelessness, anger, and a desire to escape through self-harm. This constitutes a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -909,7 +909,7 @@
     "rationale": "The text expresses feelings of loneliness, depression, and tiredness, alongside a mention of a past plan for self-harm that is still present. While the individual states they do not want to act on it, the presence of a plan and the intensity of emotions indicate a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -920,7 +920,7 @@
     "rationale": "The text explicitly mentions self-harm and describes a 'downward spiral,' indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -931,7 +931,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -942,7 +942,7 @@
     "rationale": "The text indicates persistent suicidal ideation, feelings of worthlessness, social isolation, and a sense of giving up, which are critical risk factors for a mental health crisis. Immediate intervention is necessary to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -953,7 +953,7 @@
     "rationale": "The text expresses hopelessness, significant distress, and a question about the reason to live, which indicates a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -964,7 +964,7 @@
     "rationale": "The text indicates a potential crisis situation with suicidal ideation, requiring immediate attention and intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -975,7 +975,7 @@
     "rationale": "The text contains language indicative of a farewell and a lack of hope for future happiness, which may suggest suicidal ideation or intent, warranting crisis-level intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -986,7 +986,7 @@
     "rationale": "The text expresses intense emotional distress, feelings of hopelessness, self-blame, and a potential indication of suicidal ideation ('I just can't live like this anymore, if the worst happens'). These factors suggest a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -997,7 +997,7 @@
     "rationale": "The text suggests potential suicidal ideation with a reference to avoiding pain and a possible plan, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1008,7 +1008,7 @@
     "rationale": "The text expresses severe hopelessness, self-deprecation, and explicit mention of suicidal ideation ('time to end it now'), indicating a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1019,7 +1019,7 @@
     "rationale": "The text indicates a clear expression of suicidal intent ('final fix to it all') and mentions severe distressing factors such as medical conditions, lack of support, and recent betrayal. Immediate crisis intervention is necessary.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1030,7 +1030,7 @@
     "rationale": "The text indicates a high level of emotional distress, feelings of worthlessness, and mentions not knowing how much more they can take, which suggests a potential risk of self-harm or crisis. Immediate support is warranted.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1041,7 +1041,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of self-harm consideration, severe depressive symptoms (e.g., inability to eat or get out of bed), and a direct search for methods to harm oneself. These factors signify an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1052,7 +1052,7 @@
     "rationale": "The text references a method of self-harm and indicates a concerning level of distress, suggesting an immediate risk that requires crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1063,7 +1063,7 @@
     "rationale": "The individual expresses persistent suicidal thoughts, feelings of hopelessness, and mentions preparing for potential suicide (e.g., researching and putting affairs in order). Previous interventions have not been effective, and they feel they may lose the strength to resist these thoughts. This indicates a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1074,7 +1074,7 @@
     "rationale": "The text indicates feelings of isolation, worthlessness, and a direct mention of self-harm, which suggests a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1085,7 +1085,7 @@
     "rationale": "The text expresses intense feelings of hopelessness, self-hatred, and suicidal ideation, including a direct mention of preferring death and a plea for help. These are indicators of a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1096,7 +1096,7 @@
     "rationale": "The text expresses suicidal ideation and a sense of hopelessness, indicating a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1107,7 +1107,7 @@
     "rationale": "The text indicates preparation for self-harm or suicide, referencing a note and absolving a friend of blame, which signifies a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1118,7 +1118,7 @@
     "rationale": "The text expresses deep existential pain, thoughts of self-harm, and a desire to 'not be here,' indicating a crisis level of urgency requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1129,7 +1129,7 @@
     "rationale": "The text indicates severe depression, recent self-harm, substance misuse, and hopelessness, which are significant risk factors for crisis. The mention of desolation, lack of motivation, and a history of prolonged mental health struggles further supports the urgency of intervention at a crisis level.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1140,7 +1140,7 @@
     "rationale": "The text expresses feelings of worthlessness, lack of care from others, and a desire not to be alive, which are indicators of a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1151,7 +1151,7 @@
     "rationale": "The text indicates severe emotional distress, feelings of hopelessness, and mentions contemplating ending their life, which signifies a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1162,7 +1162,7 @@
     "rationale": "The text expresses thoughts of leaving permanently and mentions the impact on loved ones, which strongly suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1173,7 +1173,7 @@
     "rationale": "The text expresses significant emotional distress, hopelessness, and mentions being 'on the edge of collapse' and 'not wanting to fight anymore,' which are indicative of a crisis level of urgency. The individual also conveys a lack of belief in recovery and exhaustion, suggesting immediate support is necessary to ensure safety and well-being.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1184,7 +1184,7 @@
     "rationale": "The text expresses persistent suicidal ideation, a sense of hopelessness, and a logical acceptance of death as a solution. These are indicators of a crisis requiring immediate attention and intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1195,7 +1195,7 @@
     "rationale": "The text indicates severe physical and mental health struggles, paired with explicit mention of fear of acting on self-harm. This suggests an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1206,7 +1206,7 @@
     "rationale": "The text expresses immediate intent to self-harm ('like today or tomorrow') and feelings of hopelessness, indicating a crisis situation requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1217,7 +1217,7 @@
     "rationale": "The text indicates suicidal ideation, feelings of hopelessness, and lack of access to support systems, which are critical signs of a mental health crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1228,7 +1228,7 @@
     "rationale": "The text expresses pervasive hopelessness, self-hatred, and a desire to stop living, alongside a history of unsuccessful interventions (e.g., medications). These factors indicate a crisis level of urgency requiring immediate attention to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1239,7 +1239,7 @@
     "rationale": "The text indicates a history of severe trauma, self-harm attempts, substance abuse, and current feelings of hopelessness and isolation. The explicit plea for help and lack of immediate support suggest a crisis situation requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1250,7 +1250,7 @@
     "rationale": "The text contains explicit references to feelings of alienation, bullying, and a potential plan to leave, which could indicate suicidal ideation. The mention of a funeral and specific wishes further heightens the urgency, suggesting a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1261,7 +1261,7 @@
     "rationale": "The text indicates a history of severe trauma, current mental health diagnoses (PTSD and psychotic depression), self-harmful thoughts, and a sense of hopelessness. These factors suggest a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1272,7 +1272,7 @@
     "rationale": "The text indicates feelings of hopelessness, worthlessness, and mentions voices suggesting self-harm or suicidal ideation. These are critical warning signs requiring immediate attention and crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1283,7 +1283,7 @@
     "rationale": "The text indicates significant emotional distress, feelings of isolation, hopelessness, and potential suicidal ideation ('ready to never'). The combination of these factors suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1294,7 +1294,7 @@
     "rationale": "The individual describes recent suicidal ideation with a specific plan and means, as well as ongoing feelings of being 100% suicidal. While they state they are not going to harm themselves today, the severity of their distress and the recent crisis indicate an urgent need for intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1305,7 +1305,7 @@
     "rationale": "The text expresses suicidal ideation, a sense of hopelessness, and detailed contemplation of self-harm, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1316,7 +1316,7 @@
     "rationale": "The text indicates active suicidal ideation, a detailed plan, feelings of hopelessness, and a history of seeking help unsuccessfully. These factors suggest a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1327,7 +1327,7 @@
     "rationale": "The text indicates a history of trauma, current self-harm, emotional distress, and barriers to seeking help, which collectively suggest a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1338,7 +1338,7 @@
     "rationale": "The text explicitly mentions suicidal ideation with a specific method, indicating a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1349,7 +1349,7 @@
     "rationale": "The text describes recent suicidal feelings, evasion of medical intervention, distrust of healthcare, and risky behavior, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1360,7 +1360,7 @@
     "rationale": "The text explicitly mentions feeling 'the most suicidal I have ever felt,' indicating a high risk of self-harm. The individual also expresses hopelessness despite recent clinical intervention, which further elevates the urgency to a crisis level.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1371,7 +1371,7 @@
     "rationale": "The text expresses feelings of hopelessness, fear of harm, and references to potential life-threatening situations. The individual appears to be in a state of crisis and perceives imminent danger, warranting immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1382,7 +1382,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of self-harm, current planning or visualization of self-harm, feelings of hopelessness, and a lack of perceived support or purpose. These factors signify an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1393,7 +1393,7 @@
     "rationale": "The text includes expressions of regret, self-blame, and a wish to die, indicating a potential crisis. The individual feels overwhelmed and perceives themselves as a source of harm, which requires immediate attention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1404,7 +1404,7 @@
     "rationale": "The text indicates active suicidal ideation, a specific plan (driving off a bridge), emotional distress, and a sense of hopelessness. While the individual sought help by calling a hotline, the severity of the ideation and the described proximity to action necessitate classification as a crisis.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1415,7 +1415,7 @@
     "rationale": "The text mentions thoughts of self-harm and feelings of purposelessness, which indicate a crisis level of urgency requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1426,7 +1426,7 @@
     "rationale": "The individual explicitly mentions suicidal thoughts and a plan to end their life in a few days, which indicates a crisis situation requiring immediate attention. Additional factors such as loneliness, feelings of rejection, and transitioning to a new school amplify the urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1437,7 +1437,7 @@
     "rationale": "The text indicates frequent contemplation of self-harm, a detailed list of stressors, and a sense of hopelessness. These factors suggest a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1448,7 +1448,7 @@
     "rationale": "The text indicates imminent risk of self-harm with specific plans and tools mentioned, alongside severe emotional distress and ambivalence about seeking help. This constitutes a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1459,7 +1459,7 @@
     "rationale": "The text indicates severe emotional distress, feelings of hopelessness, and suicidal ideation ('is there really any point living anymore?'). The individual also describes isolation, lack of support, and significant mental health struggles (extreme anxiety and depression). These factors suggest a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1470,7 +1470,7 @@
     "rationale": "The individual expresses feelings of depression, emptiness, and mentions thoughts of self-harm, which indicates a potential crisis. Although they state they probably won't act on these thoughts, the mention of suicidal ideation and fear surrounding these thoughts suggests a need for immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1481,7 +1481,7 @@
     "rationale": "The text explicitly references 'DEATH' in a concerning manner, suggesting potential crisis or suicidal ideation. Immediate attention is warranted to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1492,7 +1492,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of hopelessness, and a history of self-harm attempts, which places the individual in a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1503,7 +1503,7 @@
     "rationale": "The text indicates active suicidal thoughts, emotional distress, and a sense of hopelessness, which are signs of a crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1514,7 +1514,7 @@
     "rationale": "The text indicates significant distress, feelings of hopelessness, and a direct mention of wanting to die, which suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1525,7 +1525,7 @@
     "rationale": "The text expresses a clear desire for death, feelings of hopelessness, and frustration about surviving a life-threatening event. These are indicators of a crisis requiring immediate attention to ensure safety and well-being.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1536,7 +1536,7 @@
     "rationale": "The text indicates active contemplation of self-harm, feelings of hopelessness, and a lack of support from close relationships, which are critical signs of a mental health crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1547,7 +1547,7 @@
     "rationale": "The individual expresses persistent thoughts of self-harm over several days, a significant drop in mood, and feelings of hopelessness. These factors indicate a crisis level of urgency requiring immediate attention to ensure safety and well-being.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1558,7 +1558,7 @@
     "rationale": "The statement expresses regret, which could indicate mild emotional distress, but lacks explicit signs of immediate risk or severe distress.",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1569,7 +1569,7 @@
     "rationale": "The text expresses feelings of hopelessness ('I have nothing to live for') and references 'swallow' in the title, which could imply self-harm or suicidal ideation. These are indicators of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1580,7 +1580,7 @@
     "rationale": "The text expresses feelings of hopelessness, self-harm ideation, and a sense of abandonment, which are indicators of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1591,7 +1591,7 @@
     "rationale": "The text expresses suicidal ideation, intense self-loathing, and hopelessness, indicating a crisis level of urgency. The individual explicitly wishes for death and demonstrates significant emotional distress, requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1602,7 +1602,7 @@
     "rationale": "The text indicates a high level of distress, hopelessness, and potential risk of harm to self, as evidenced by statements like 'I don't know if I can make it past this month' and 'I am nothing.' Immediate crisis support is warranted.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1613,7 +1613,7 @@
     "rationale": "The text indicates suicidal ideation, feelings of hopelessness, and a lack of support from friends, which suggests a crisis level of urgency requiring immediate intervention to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1624,7 +1624,7 @@
     "rationale": "The text indicates severe distress, hopelessness, and mentions being 'sick of life' while expressing fear of dying. The individual is explicitly asking for help and appears to be in a crisis state, requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1635,7 +1635,7 @@
     "rationale": "The individual expresses daily suicidal ideation, feelings of worthlessness, and significant emotional distress. While they mention reasons that pull them back from acting on these thoughts, the persistent nature of their struggles and the mention of being unable to communicate effectively with their support system indicate a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1646,7 +1646,7 @@
     "rationale": "The text indicates suicidal ideation ('wish I could drop dead', 'I know how this would happen'), a sense of hopelessness, and an inability to cope, which are signs of a mental health crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1657,7 +1657,7 @@
     "rationale": "Failed after 3 attempts",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1668,7 +1668,7 @@
     "rationale": "The text indicates severe emotional distress, feelings of hopelessness, significant life challenges, and potential self-blame, which may suggest a crisis requiring immediate support or intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1679,7 +1679,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A0",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1690,7 +1690,7 @@
     "rationale": "The text indicates active suicidal thoughts, past self-harm attempts, substance use, and feelings of hopelessness, which collectively suggest a crisis level requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1701,7 +1701,7 @@
     "rationale": "The text explicitly mentions imminent self-harm and suicidal intent, expressing hopelessness, isolation, and past attempts. This indicates a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1712,7 +1712,7 @@
     "rationale": "The text indicates recent self-harm requiring medical intervention, ongoing suicidal ideation, feelings of worthlessness, and a history of self-harm and addiction. The individual is in a highly vulnerable state and expresses a lack of improvement, suggesting a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1723,7 +1723,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1734,7 +1734,7 @@
     "rationale": "The text indicates severe distress, hopelessness, and mentions being 'severely depressed' alongside academic, social, and behavioral struggles. The tone suggests potential risk factors for crisis, including feelings of worthlessness and inability to cope, warranting urgent attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1745,7 +1745,7 @@
     "rationale": "The text suggests feelings of isolation and includes a potential reference to self-harm or suicidal ideation ('push my date to tonight'), indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1756,7 +1756,7 @@
     "rationale": "The text explicitly mentions self-harm and suicidal intent ('off myself'), indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1767,7 +1767,7 @@
     "rationale": "The text indicates severe emotional distress, persistent anxiety, social isolation, and suicidal ideation ('one day I'll just off myself' and 'that day is rapidly approaching'). These factors suggest an immediate risk to the individual's safety and well-being, requiring urgent crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1778,7 +1778,7 @@
     "rationale": "The text expresses severe emotional distress, body dysphoria, and mentions self-harm as a potential option, indicating a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1789,7 +1789,7 @@
     "rationale": "The text indicates severe emotional distress, thoughts of self-harm, and feelings of worthlessness. The individual expresses a lack of desire to continue living and mentions their children as the only reason preventing them from acting on these thoughts. This suggests a crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1800,7 +1800,7 @@
     "rationale": "The text indicates a high level of distress, feelings of hopelessness, and a potential plan involving pills, which suggests immediate risk and crisis-level urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1811,7 +1811,7 @@
     "rationale": "The text indicates severe emotional distress, a history of self-harm, suicidal ideation, and a lack of support systems. The individual expresses feelings of hopelessness and mentions being close to attempting suicide, which constitutes a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1822,7 +1822,7 @@
     "rationale": "The text indicates a lack of basic necessities (food, water), homelessness, and absence of a support system, which suggests an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1833,7 +1833,7 @@
     "rationale": "The text indicates active suicidal ideation, a detailed plan involving medication, and an expressed intent to act on it soon. These factors signify an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1844,7 +1844,7 @@
     "rationale": "The text indicates severe emotional distress, suicidal ideation, self-harm history, and ongoing abuse. The individual expresses feelings of hopelessness, worthlessness, and isolation, alongside a lack of support from family. These factors suggest an immediate risk to safety and well-being, warranting crisis-level intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1855,7 +1855,7 @@
     "rationale": "The text expresses hopelessness, feelings of worthlessness, and a direct statement about not wanting to be here any longer, which indicates a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1866,7 +1866,7 @@
     "rationale": "The text expresses severe emotional distress, suicidal ideation, and a sense of hopelessness, indicating a crisis situation requiring immediate intervention to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1877,7 +1877,7 @@
     "rationale": "The text indicates severe distress, feelings of being watched or followed, inability to live normally, and mentions self-harm or harm from perceived entities. These factors suggest a crisis level requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1888,7 +1888,7 @@
     "rationale": "The text expresses intense emotional distress, suicidal ideation, and references to self-harm, alongside a detailed account of the impact of another's death. The individual appears to be at risk of crisis, requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1899,7 +1899,7 @@
     "rationale": "The text indicates active suicidal ideation, detailed planning, and emotional distress, with the individual expressing moments of crisis and hesitation to seek direct help. This suggests an urgent need for crisis intervention to ensure safety and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1910,7 +1910,7 @@
     "rationale": "The text describes self-harm resulting in severe physical injury, ongoing emotional distress, and a lack of motivation to address health issues, indicating a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1921,7 +1921,7 @@
     "rationale": "The text expresses feelings of hopelessness, worthlessness, and a lack of purpose, culminating in the statement 'I can't do it anymore,' which suggests a potential risk of self-harm or crisis-level distress.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1932,7 +1932,7 @@
     "rationale": "The text 'goodbye' is ambiguous and could indicate a farewell or a potential sign of distress. Without additional context, it warrants monitoring but does not clearly indicate a crisis or need for immediate intervention.",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1943,7 +1943,7 @@
     "rationale": "The text is ambiguous and could imply a significant decision or conclusion, but lacks explicit indicators of crisis or immediate intervention needs. Monitoring is suggested to assess context.",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1954,7 +1954,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of suicide attempts, self-hatred, and a lack of coping mechanisms, which collectively suggest a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1965,7 +1965,7 @@
     "rationale": "The text is extremely brief and ambiguous. While it could be casual, it may also indicate a potential need for monitoring depending on context and tone.",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A1",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1976,7 +1976,7 @@
     "rationale": "The text indicates significant hopelessness, preparation for self-harm (e.g., getting rid of possessions, isolating from loved ones), and explicit desire to stop existing, which are strong indicators of a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1987,7 +1987,7 @@
     "rationale": "The text indicates suicidal thoughts and a perceived progression toward self-harm, which constitutes a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -1998,7 +1998,7 @@
     "rationale": "The text indicates persistent thoughts of self-harm and worthlessness, feelings of being a burden, and a lack of protective factors beyond family. These are significant risk factors for a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2009,7 +2009,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of worthlessness, and a desire to self-harm, which are signs of a mental health crisis requiring immediate intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2020,7 +2020,7 @@
     "rationale": "The text expresses a clear sense of hopelessness, passive suicidal ideation, and detachment from basic needs, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2031,7 +2031,7 @@
     "rationale": "The text indicates feelings of hopelessness, suicidal ideation (mention of wanting to overdose), and a lack of effective support systems, which are critical signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2042,7 +2042,7 @@
     "rationale": "The text indicates a high level of emotional distress, mentions potential self-harm, and expresses a lack of support, which aligns with a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2053,7 +2053,7 @@
     "rationale": "The individual expresses feelings of being dangerously more depressed than usual, a history of self-harm attempts, recent hospitalizations, and a lack of effective support systems. These factors indicate a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2064,7 +2064,7 @@
     "rationale": "The text indicates significant distress, mentions a reliance on external factors (little cousins) to stay alive, and implies thoughts of self-harm. These are indicators of a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2075,7 +2075,7 @@
     "rationale": "The text describes suicidal ideation from the ex-partner, with explicit mention of feeling suicidal and only refraining due to concern for his sister. This indicates a crisis level of urgency requiring immediate intervention to ensure safety.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2086,7 +2086,7 @@
     "rationale": "The text indicates suicidal ideation, a history of close calls, and acknowledgment of being a danger to self and others. Immediate intervention is critical to ensure safety and support, as the individual expresses urgency and distress.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2097,7 +2097,7 @@
     "rationale": "The text indicates planning and preparation for a potential suicide, referencing a sense of calm from the thought of 'the end' and 'freedom.' This suggests an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2108,7 +2108,7 @@
     "rationale": "The text indicates a high level of distress, references trauma, and includes concerning language about having 'no option left' and 'ghosting away for real,' which suggests potential suicidal ideation. Immediate crisis intervention is warranted.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2119,7 +2119,7 @@
     "rationale": "The text describes a history of severe trauma, multiple self-harm attempts, and ongoing self-critical thoughts, indicating a high risk of crisis and potential harm. Immediate intervention is necessary to ensure safety and provide support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2130,7 +2130,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of self-harm, recent loss of a close friend to suicide, and planning for a potential attempt. The individual expresses feelings of hopelessness and barriers to seeking help, which signify a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2141,7 +2141,7 @@
     "rationale": "The text expresses suicidal ideation, feelings of hopelessness, and self-harm contemplation. The individual also mentions a lack of care about consequences and a sense of worthlessness, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2152,7 +2152,7 @@
     "rationale": "The text indicates frequent suicidal thoughts, feelings of isolation, hopelessness, and significant distress. The individual expresses a need for someone to talk to and mentions not eating properly, which are signs of a mental health crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2163,7 +2163,7 @@
     "rationale": "The individual has expressed a clear intention to harm themselves, specified a timeframe, and is seeking acknowledgment without immediate intervention. This indicates a crisis situation requiring urgent attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2174,7 +2174,7 @@
     "rationale": "The text includes a direct mention of self-harm, which indicates a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2185,7 +2185,7 @@
     "rationale": "The individual expresses suicidal ideation, feelings of hopelessness, and a plan to harm themselves if a specific event occurs (breakup). These factors indicate a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2196,7 +2196,7 @@
     "rationale": "The text explicitly mentions suicidal intent and seeks methods to end life, indicating an immediate crisis requiring urgent intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2207,7 +2207,7 @@
     "rationale": "The text indicates active suicidal thoughts, significant distress, substance abuse, and feelings of hopelessness, which collectively suggest a crisis level requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2218,7 +2218,7 @@
     "rationale": "The text indicates severe emotional distress, feelings of hopelessness, isolation, and mentions of substance use and suicidal ideation. The individual expresses a lack of self-care and a desire to die, which signifies a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2229,7 +2229,7 @@
     "rationale": "The text indicates active suicidal ideation, a history of a recent attempt, and significant emotional distress. While the individual has some protective factors (e.g., a supportive partner and upcoming medical appointments), the immediate risk of harm and the intensity of their feelings warrant classification as a crisis level (A3).",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2240,7 +2240,7 @@
     "rationale": "The text expresses feelings of hopelessness, despair, and a desire for life to be over, which indicates a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2251,7 +2251,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A0",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2262,7 +2262,7 @@
     "rationale": "The text expresses suicidal ideation with a desire to end life, indicating a crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2273,7 +2273,7 @@
     "rationale": "The text expresses suicidal ideation with a specific barrier preventing action, indicating a high risk and need for immediate crisis support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2284,7 +2284,7 @@
     "rationale": "The text expresses active suicidal ideation, significant distress, and a sense of hopelessness, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2295,7 +2295,7 @@
     "rationale": "The text indicates active suicidal ideation, feelings of hopelessness, and a lack of support system, which are critical risk factors requiring immediate attention and crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2306,7 +2306,7 @@
     "rationale": "The text expresses persistent worsening thoughts, emptiness, and a desire to end life, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2317,7 +2317,7 @@
     "rationale": "The text expresses hopelessness and a lack of desire to continue living, which indicates a potential crisis requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2328,7 +2328,7 @@
     "rationale": "The text describes a history of serious self-harm attempts, ongoing depression, and feelings of hopelessness, indicating a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2339,7 +2339,7 @@
     "rationale": "The text explicitly mentions imminent self-harm and a decision not to seek help, indicating a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2350,7 +2350,7 @@
     "rationale": "The text explicitly mentions feeling suicidal and hurt, alongside significant distress about academic performance and future prospects. These factors indicate a crisis level of urgency requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2361,7 +2361,7 @@
     "rationale": "The text describes a history of severe mental health struggles, including suicidal ideation, self-harm, and ongoing depressive episodes. The individual expresses desperation and a sense of being overwhelmed, which indicates a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2372,7 +2372,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A0",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2383,7 +2383,7 @@
     "rationale": "The text expresses clear suicidal ideation, a detailed plan, and a sense of hopelessness, indicating a crisis situation requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2394,7 +2394,7 @@
     "rationale": "The text indicates significant distress, feelings of hopelessness, and inability to manage basic tasks, alongside a sense of being at the end of their rope. These factors suggest a crisis level requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2405,7 +2405,7 @@
     "rationale": "The text indicates active suicidal ideation, a recent attempt, and a sense of hopelessness and loneliness, which are clear signs of a crisis requiring immediate intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2416,7 +2416,7 @@
     "rationale": "The text suggests feelings of hopelessness and potential self-harm, indicating a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2427,7 +2427,7 @@
     "rationale": "The text indicates severe distress, homelessness, potential substance use, and expressions of hopelessness, which suggest a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2438,7 +2438,7 @@
     "rationale": "The text includes a direct mention of suicidal ideation ('lay on the railroad tracks until a train hits me'), indicating a crisis level of urgency. While the individual states they are venting, the explicit mention of self-harm requires immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2449,7 +2449,7 @@
     "rationale": "The text expresses feelings of hopelessness, self-hate, and a desire to stop existing, which indicates a potential crisis situation requiring immediate attention and support.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2460,7 +2460,7 @@
     "rationale": "The text expresses feelings of being overwhelmed, inability to cope, and a desire for life to end, indicating a potential crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2471,7 +2471,7 @@
     "rationale": "The text indicates detailed suicidal ideation, feelings of hopelessness, and a lack of belief in improvement, alongside expressions of being tired of life and wishing to be gone. These factors suggest a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2482,7 +2482,7 @@
     "rationale": "The text explicitly mentions suicidal thoughts and a sense of hopelessness, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2493,7 +2493,7 @@
     "rationale": "The text indicates a history of suicidal ideation linked to alcohol use, a pattern of self-destructive behavior, and reliance on alcohol to cope with emotional distress. These factors suggest a high risk requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2504,7 +2504,7 @@
     "rationale": "JSON parse error",
     "needs_human_review": true,
     "review_reason": "low_confidence",
-    "human_label": "A0",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2515,7 +2515,7 @@
     "rationale": "The text expresses feelings of hopelessness, worthlessness, and isolation, alongside mentions of suicidal ideation ('the enticing feeling death seems ever clear to me'). The individual also indicates a lack of support and reluctance to seek help, which heightens the urgency for crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2526,7 +2526,7 @@
     "rationale": "The text indicates serious consideration of death, persistent feelings of loneliness, and a request for survival guidance, which suggests a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2537,7 +2537,7 @@
     "rationale": "The individual has recently attempted suicide with intent, reports ongoing suicidal thoughts, and is unable to access therapy or medical attention due to concerns about losing ADHD medication. These factors indicate a crisis level of urgency.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2548,7 +2548,7 @@
     "rationale": "The text expresses persistent feelings of hopelessness, self-harm as a palatable option, and a plea for help, indicating a crisis level of urgency requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2559,7 +2559,7 @@
     "rationale": "The text indicates persistent suicidal ideation, even during moments of contentment, suggesting a high risk and need for immediate crisis intervention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2570,7 +2570,7 @@
     "rationale": "The text includes explicit suicidal ideation, self-hatred, and feelings of worthlessness, indicating a crisis situation requiring immediate attention.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   },
   {
@@ -2581,7 +2581,7 @@
     "rationale": "The text indicates active suicidal thoughts, feelings of hopelessness, and significant life stressors (parental illness, career rejection). The individual expresses a sense of being 'broken' and mentions suicide as a recurring thought, which elevates the urgency to crisis level.",
     "needs_human_review": true,
     "review_reason": "A3_sample",
-    "human_label": "A3",
+    "human_label": "",
     "annotator_notes": ""
   }
 ]
