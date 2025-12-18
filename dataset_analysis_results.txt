@@ -1,0 +1,40 @@
+============================================================
+PHASE 1 — DATASET CHARACTERIZATION
+============================================================
+
+1.1 DATASET STATISTICS
+------------------------------
+Total samples: 3,549
+
+Label distribution:
+  A0: 136 (3.8%)
+  A1: 459 (12.9%)
+  A2: 1,494 (42.1%)
+  A3: 1,460 (41.1%)
+
+Text length statistics:
+  Average tokens: 209.9
+  Median tokens: 129.0
+  Min tokens: 1
+  Max tokens: 4834
+
+Human review coverage:
+  Human reviewed: 235 (6.6%)
+  Model only: 3,314 (93.4%)
+
+Disagreements (LLM vs Human):
+  Disagreements: 25 / 235 (10.6%)
+  Agreement: 210 / 235 (89.4%)
+
+1.2 AGREEMENT ANALYSIS
+------------------------------
+Overall agreement: 89.4%
+Agreement on A3 cases: 201 / 222 (90.5%)
+
+Disagreement patterns:
+  A3 -> A1: 21 (84.0%)
+  A0 -> A1: 4 (16.0%)
+
+============================================================
+ANALYSIS COMPLETE
+============================================================
